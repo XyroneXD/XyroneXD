@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Finepixel**
 
-- 📫 How to reach me **sagamerzt@gmail.com**
+- 📫 How to reach me **contact.lohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
