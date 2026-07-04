@@ -1,27 +1,130 @@
-<h1 align="center">Hi 👋, I'm Xyrone_XD</h1>
-<h3 align="center">A passionate Minecraft Plugin developer from India</h3>
-  <img src="https://camo.githubusercontent.com/49b29fd2306f2dd0321de28be6fabac71b289b3e671e1509f513ca65f3779912/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3530302673697a653d32342670617573653d3130303026636f6c6f723d3030464646462663656e7465723d74727565267643656e7465723d747275652677696474683d353030266c696e65733d5765622b617070732b616e642b4d696e6563726166742b706c7567696e733b4d6176656e2b2537432b537069676f742b2537432b52656163742b2537432b46697265626173653b436c65616e2532432b506572666f726d616e742b2532362b5363616c61626c652b436f6465" height="40" alt="javascript logo"  />
-  <img width="12" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyronexd&label=Profile%20views&color=0e75b6&style=flat" alt="xyronexd" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyronexd" alt="xyronexd" /></a> </p>
+# 👋 Hey, I'm Xyrone
 
-- 🔭 I’m currently working on **Finepixel**
+### 💻 Java Developer • Minecraft Plugin Developer • Open Source Enthusiast
 
-- 📫 How to reach me **contact.lohit@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+Minecraft+Plugins;Java+Developer;PaperMC+%7C+Spigot+%7C+Bukkit;Always+Learning+Something+New!" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/xyrone_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyrone_xd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Xyrone_XD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xyrone_xd" height="30" width="40" /></a>
+---
+
+<img src="https://komarev.com/ghpvc/?username=XyroneXD&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🔭 Currently working on **Rayworld**
+- 🌱 Learning **Advanced Java & Database Integration**
+- 💡 Passionate about Minecraft server development
+- ☕ Coffee + Java = Productivity
+- 🎯 Goal: Build plugins used by thousands of servers.
+
+---
+
+# 🛠 Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,maven,git,github,idea,vscode,html,css,js"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xyronexd&show_icons=true&locale=en&layout=compact" alt="xyronexd" /></p>
+# 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyronexd&show_icons=true&locale=en" alt="xyronexd" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xyronexd&" alt="xyronexd" /></p>
- <img src="https://platane.github.io/snk/" height="40" alt="javascript logo"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=XyroneXD&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XyroneXD&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=XyroneXD&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XyroneXD&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=XyroneXD&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌍 Rayworld | Minecraft Network Plugin |
+| ⚡ XCore | Utility API for plugins |
+| 📦 XConfig | Easy configuration library |
+| 🔥 More Soon... | Stay Tuned |
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://youtube.com/@Xyrone_XD">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:contact.xyrone@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/XyroneXD">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+```text
+🎮 Minecraft Addict
+
+☕ Java + Java = ❤️
+
+🐞 Fixing bugs since day one.
+
+🚀 Every plugin starts with one idea.
+```
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+
+</div>
